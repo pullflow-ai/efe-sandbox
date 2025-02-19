@@ -5,6 +5,19 @@ interface User {
 }
 class UserManager {
   private users: User[] = [];
+        log.info(
+        { botId, channelId: chatChannel.id },
+        'Filtering bot comment based on channel config'
+      )      log.info(
+        { botId, channelId: chatChannel.id },
+        'Filtering bot comment based on channel config'
+      )      log.info(
+        { botId, channelId: chatChannel.id },
+        'Filtering bot comment based on channel config'
+      )      log.info(
+        { botId, channelId: chatChannel.id },
+        'Filtering bot comment based on channel config'
+      )
 
   addUser(user: User): void {
     this.users.push(user);
