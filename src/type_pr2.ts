@@ -3,6 +3,113 @@ interface User {
     age: number;
 }
 
+    name: string;
+    age: number;
+}
+
+
+
+function createUser(name: string, age: number): User {
+    return { name, age };
+}
+
+class Calculator {
+    add(a: number, b: number): number {
+        return a + b;
+    }
+}
+
+function sayHello(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const user: User = createUser("Alice", 30);
+console.log(sayHello(user.name));    name: string;
+    age: number;
+}
+
+
+
+function createUser(name: string, age: number): User {
+    return { name, age };
+}
+
+class Calculator {
+    add(a: number, b: number): number {
+        return a + b;
+    }
+}
+
+function sayHello(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const user: User = createUser("Alice", 30);
+console.log(sayHello(user.name));    name: string;
+    age: number;
+}
+
+
+
+function createUser(name: string, age: number): User {
+    return { name, age };
+}
+
+class Calculator {
+    add(a: number, b: number): number {
+        return a + b;
+    }
+}
+
+function sayHello(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const user: User = createUser("Alice", 30);
+console.log(sayHello(user.name));    name: string;
+    age: number;
+}
+
+
+
+function createUser(name: string, age: number): User {
+    return { name, age };
+}
+
+class Calculator {
+    add(a: number, b: number): number {
+        return a + b;
+    }
+}
+
+function sayHello(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const user: User = createUser("Alice", 30);
+console.log(sayHello(user.name));    name: string;
+    age: number;
+}
+
+
+
+function createUser(name: string, age: number): User {
+    return { name, age };
+}
+
+class Calculator {
+    add(a: number, b: number): number {
+        return a + b;
+    }
+}
+
+function sayHello(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const user: User = createUser("Alice", 30);
+console.log(sayHello(user.name));
+
 function createUser(name: string, age: number): User {
     return { name, age };
 }
