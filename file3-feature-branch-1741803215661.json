@@ -1,0 +1,15 @@
+{
+  "projectName": "PullPuppet Demo",
+  "version": "1.0.0",
+  "description": "This is a sample JSON configuration file",
+  "author": "PullPuppet",
+  "license": "MIT",
+  "dependencies": {
+    "example-lib": "^1.0.0",
+    "another-lib": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/repo"
+  }
+}
